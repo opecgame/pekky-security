@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  },
+  "name": "antinuke-pekkysecurity",
+  "version": "1.0.0",
+  "description": "Free Naja",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opecgame/pekky-security.git"
+  },
+  "author": "OpecZ CH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opecgame/pekky-security/issues"
+  },
+  "homepage": "https://github.com/opecgame/pekky-security#readme"
+}
